@@ -1,1 +1,1 @@
-# studyBuddy
+COGS3 StudyBuddy Page
